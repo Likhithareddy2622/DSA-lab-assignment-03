@@ -5,7 +5,7 @@ Roll Number: CDS/2025/1027
 Course: Introduction to Data Structure  
 
 ## Assignment Description
-This repository contains Assignment 2 programs based on Stack and Queue implemented in C language.
+This repository contains Assignment 3 programs based on Stack and Queue implemented in C language.
 
 ## Programs Included
 1. implement basic stack operations
